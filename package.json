@@ -1,0 +1,12 @@
+{
+  "name": "ceos-extensions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jonathan Diehl",
+  "license": "MIT",
+  "dependencies": {
+    "ceos": "^2.0.00",
+    "lerna": "^3.22.0",
+    "typescript": "^3.9.3"
+  }
+}

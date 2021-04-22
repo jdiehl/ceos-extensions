@@ -1,0 +1,22 @@
+{
+  "name": "ceos-user",
+  "version": "1.0.0",
+  "description": "Ceos User Extension",
+  "author": "Jonathan Diehl <jonathan.diehl@gmail.com>",
+  "license": "ISC",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc ."
+  },
+  "devDependencies": {
+    "tslint": "^6.1.2"
+  },
+  "dependencies": {
+    "@types/jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
